@@ -1,0 +1,32 @@
+{
+  "name": "mongoosebot",
+  "version": "1.0.0",
+  "description": "Create stories with other people using this discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NimbleMountain/story_collab.git"
+  },
+  "dependencies": {
+    "canvas": "^1.6.7",
+    "chart.js": "^2.7.1",
+    "chartjs": "^0.3.24",
+    "chartjs-node": "^1.6.0",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "jsdom": "^11.5.1",
+    "mathjs": "^3.17.0",
+    "moji-translate": "^1.0.8",
+    "node-fetch": "^1.7.1",
+    "text-table": "^0.2.0"
+  },
+  "author": "Electro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NimbleMountain/story_collab/issues"
+  },
+  "homepage": "https://github.com/NimbleMountain/story_collab#readme"
+}
